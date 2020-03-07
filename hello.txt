@@ -1,1 +1,2 @@
 First Git progragm
+Adding some thing first time
